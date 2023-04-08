@@ -7,6 +7,6 @@
     <title>Nicol</title>
 </head>
 <body>
-    <h1>pruebaAA! </h1>
+    <h1>PUEBAa </h1>
 </body>
 </html>
